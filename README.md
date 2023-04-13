@@ -1,5 +1,5 @@
-# Awesome Weaviate in NodeJs 🔥
-A curated list of awesome projects, resources, and tools for developers working with Weaviate in NodeJs. This repository aims to showcase the best examples of how Weaviate can be used with NodeJs and inspire other developers to experiment and build their own projects.
+# Awesome Weaviate in TS/JS ecosystem 🔥
+A curated list of awesome projects, resources, and tools for developers working with Weaviate in javascript and typescript. This repository aims to showcase the best examples of how Weaviate can be used with NodeJs and inspire other developers to experiment and build their own projects.
 
 ## Contents
 - [Getting Started](#getting-started)
