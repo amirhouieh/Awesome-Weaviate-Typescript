@@ -39,3 +39,4 @@ Join the Weaviate and NodeJs community to learn and share with others:
 
 ## Contributing
 If you have a project, resource, or tool that you'd like to add to this repository, please create a pull request with your changes. Make sure to follow the existing formatting and structure of the repository. We welcome any contributions and appreciate your support in making this repository awesome! 💪
+- Please note this repo only contains examples that are purely in js/ts meaning that for example codebases containing python backend and JS frontend wont be a fit. 
