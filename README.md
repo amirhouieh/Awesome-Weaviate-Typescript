@@ -26,6 +26,7 @@ Explore these examples to see what's possible with Weaviate in NodeJs:
 | Project | Description | Topics | Author |
 |---------|-------------|----------|--------|
 | [Plant information searching in NodeJs and Javascript](https://github.com/weaviate/weaviate-examples/blob/main/plant-information-searching-using-NodeJs) |A simple example to demonstrate how to use weaviate in NodeJs using Javascript APIs | Add data, simple class schema, delete existing class schema | [Weaviate](https://github.com/weaviate) |
+| [Basic example with test data and embedding projection](https://github.com/daandegroot123/weaviate-typescript-example) | A basic project setup that has test data included to play around with, also able to generate .tsv files for embedding projection | Create/remove classes, schema, selecting fields, embedding projection, OpenAI embeddings | [Daan de Groot](https://github.com/daandegroot123)
 
 ## Tools and Libraries
 These tools and libraries can help you work with Weaviate in NodeJs:
